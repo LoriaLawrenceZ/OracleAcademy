@@ -7,4 +7,6 @@
 <hr>
 
 <h2>Certificate</h2>
-<img src="assets/OracleAcademyJavaFoundationsCertificate.pdf">
+<figure width=90%>
+  <img src="assets/OracleAcademyJavaFoundationsCertificate.pdf">
+</figure>
