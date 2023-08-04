@@ -8,5 +8,5 @@
 
 <h2>Certificate</h2>
 <figure width=90% style="display: flex; align-items: center; justify-content: center">
-  <img src="assets/OracleAcademyJavaFoundationsCertificate.pdf">
+  <img src="assets/OracleAcademyJavaFoundationsCertificate.png">
 </figure>
